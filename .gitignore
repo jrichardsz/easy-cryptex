@@ -1,0 +1,9 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+# Ignore everything
+/*
+# But not these files
+!.gitignore
+!src
+!pom.xml
+!duke.properties
+!readme.md
